@@ -1,0 +1,7 @@
+D:\7148\unit4\constructer\bin\Debug\constructer.exe.config
+D:\7148\unit4\constructer\bin\Debug\constructer.exe
+D:\7148\unit4\constructer\bin\Debug\constructer.pdb
+D:\7148\unit4\constructer\obj\Debug\constructer.csproj.AssemblyReference.cache
+D:\7148\unit4\constructer\obj\Debug\constructer.csproj.CoreCompileInputs.cache
+D:\7148\unit4\constructer\obj\Debug\constructer.exe
+D:\7148\unit4\constructer\obj\Debug\constructer.pdb
